@@ -1,2 +1,2 @@
-# OIBSIP
-oasis infobyte
+TEMPERATURE-CONVERTER
+temperature converter for Oasis Infobyte.
